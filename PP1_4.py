@@ -12,7 +12,7 @@ def q3():
   #Write Assignment code here
   fname=input("Input your first name: ")
   lname=input("Input your last name: ")
-  print(f"Hello {fname} {lname}")
+  print(f"{fname} {lname}")
 def q4():
   #Write Assignment code here
   student1=input("Input a student: ")
